@@ -1,0 +1,1 @@
+java -jar "%~dp0Languages Team 3.jar%*" d EIDictionary.txt Portuguese
