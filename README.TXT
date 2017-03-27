@@ -16,8 +16,8 @@ HOW TO START THIS PROJECT:
 
 Option 1
 
-2. Open Command Prompt and Paste the following line of code into Command Line replacing "|ADDRESS OF FILE|" with the address of the folder containing 'Binary trees.jar': java -jar "|ADDRESS OF FILE|\BinaryTree.jar‚Äù
-EXAMPLE: java -jar "C:\Users\%username%\Dropbox\Peter Programming\Languages Team 3.jar‚Äù
+2. Open Command Prompt and Paste the following line of code into Command Line replacing "|ADDRESS OF FILE|" with the address of the folder containing 'Binary trees.jar': java -jar "|ADDRESS OF FILE|\BinaryTree.jarî
+EXAMPLE: java -jar "C:\Users\%username%\Dropbox\Peter Programming\Languages Team 3.jarî
 or : java -jar "|ADDRESS OF FILE|\Languages Team 3.jar" d EPDictionary.txt Portuguese
 
 Option 2
@@ -26,12 +26,12 @@ Option 2
 
 Option 3
 
-2. Open ‚ÄòLanguages Team 3 [Passing in Dictionary].bat‚Äô to pass in the ‚ÄòEPDictionary.txt‚Äô file as an input parameter to be read into the tree in the program.
+2. Open ëLanguages Team 3 [Passing in Dictionary].batí to pass in the ëEPDictionary.txtí file as an input parameter to be read into the tree in the program.
 
-3. Select your menu choice e.g. ‚Äò1‚Äô and press enter
+3. Select your menu choice e.g. ë1í and press enter
 
 
-AUTHORS: Gregor, Oliver, Owen & Peter
+AUTHORS: Gregor Taylor, Oliver Simpson, Owen Kelbie & Peter West
 
 
 USER INSTRUCTIONS: 1. Choose your menu option and press enter

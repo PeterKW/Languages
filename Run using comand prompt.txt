@@ -1,0 +1,1 @@
+java -jar "U:\Computing\1st Year\Introduction To Data Structures And Algorithms - AC12001 &AC22007\Week 8-10 - Team Project\Languages Team 3 Project Files\Languages Team 3\Languages Team 3.jar" d EPDictionary.txt Portuguese

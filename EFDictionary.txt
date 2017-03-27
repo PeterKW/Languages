@@ -1,81 +1,56 @@
-﻿a un_
+StartOfFile
+﻿a un
 a une
 aardvark adverbe
-aardvark oryctérope
 aardvarks tamanoirs
-aback etre deconcerte
-aback to be taken ~ : etre deconcerte,interdit
-aback to be taken ~ :etre stupefaite
+aback etre_deconcerte
 abacterial non-bactérien
 abacus abaque
-abacus abaque,boulier compteur
-abacus boulier,compteur
+compteur boulier
 abacuses abaques
-abacuses abaques, bouliers
-abacuses bouliers, compteurs
-abaft sur l'arrie\re, vers l'arrie\re
 abalone ormeau
 abalones ormeaux
-abandon abandon, laisser-aller
-abandon abandonner
+abandon abandon
 abandoned abandonné
-abandoned abandonnes
-abandoned dévergondé
-abandonee abandoned, forsaken
+abandonee abandoned
 abandoner abandoneur
 abandoning abandonnant
 abandonment abandon
-abandonment abandonnement
 abandonments abandons
 abandons abandonnes
-abase abaisser, humilier
+abase abaisser
 abased humilié
-abasement abaissement, humiliation
+abasement abaissement
 abasements abaissement
-abases mortifie, humilie, rabaisse
-abash confondre, déconcerter
-abashed confuse, embarrassee
-abashed deconcerte, confus, gene
+abases mortifie
+abash confondre
+abashed confuse
 abasing humiliant
 abate diminuer
-abate s'apaiser, se calmer
 abated a_diminué
 abatement diminution
-abatement la_suppression
 abatements coupures
-abates se calme, s'apaise
-abating faiblant
+abates se_calme
 abating faiblant
 abattoir abattoir
 abbe abbé
 abberations aberrations
 abbey abbaye
-abbey une_abbaye
 abbeys abbayes
 abbot abbé
-abbot abbé
-abbot abbé
-abbot abbe  d'un_monastere
-abbot pere superieur
 abbots abbés
 abbreviate abbréger
-abbreviate abréger
 abbreviated abbrégé
 abbreviates s'abre\ge
 abbreviating abrégeant
 abbreviation abbréviation
-abbreviation abreviation
-abbreviation abréviation
 abbreviations abbréviations
-abbreviations abréviations
 abbreviator abréviateur
 abdicable abdiquable
 abdicate abdiquer
-abdicate renoncer
 abdicated abdiqué
 abdication abdication
 abdicator abdicateur
-abdomen abdomen
 abdomen abdomen
 abdomens abdomens
 abdominal abdominal
@@ -88,130 +63,110 @@ abductions enlèvements
 abductor adducteur
 abductors adducteur
 abducts detourner
-abeam par le_travers
+abeam par_le_travers
 abecedarian abécédaire
-abed au lit
+abed au_lit
 aberrance aberration
-aberrant aberrant, egare
-aberrantly_de_fac,on aberrante
+aberrant aberrant
+aberrantly_de_faç aberrante
 aberration aberration
-aberration anomalie
 aberrations erreurs
-abet encourager au crime
+abet encourager_au_crime
 abetment encouragement
 abets secourirs
-abetted encouragea, soutient
+abetted encouragea
 abetter complice
 abetting provoquant
-abettor aide, complice
-abeyance in ~ law: en desuetude; matter en suspens
-abeyant en attente
-abhor avoir horreur de
-abhorred abhorrait or abhorré, détestait or détesté
-abhorrence aversion extreme, horreur
+abettor aide
+abeyance en_desuetude
+abeyant en_attente
+abhor avoir_horreur_de
+abhorred abhorrait
+abhorrence aversion_extreme
 abhorrent odieux
-abhorrently_de_fac,on odieuse
+abhorrently de_façon_odieuse
 abhorring abhorrant
 abhors abhorrer
-abide i can't ~ it/him : je ne peut pas le_souffrir &lt;or&gt; supporter; to ~ by : observer, respecter
 abided souffri
-abides_tole\re, demeure, subsiste
-abiding constant, éternel
+abides tole\re
+abiding constant
 abilities talents
 ability compétence
-ability competence; capacite; skill talent
 abiotic abiotique
-abject poverty sordid; apology plate
 abjection abjectionf
-abjectly avec servilité
-abjuration renoncement, apostasie rel
+abjectly avec_servilité
+abjuration renoncement
 abjure abjurer
-abjurer personne qui abjure
+abjurer personne_qui_abjure
 ablation ablation
 ablative ablatif
-ablaze en feu
-ablaze en feu, en flammes
-able capable -to be able to e^tre capable_de_, pouvoir
-able compétente
-able competente; to be ~ to do sth : pouvoir faire qch, etre capable_de_faire qch
-able to be ~: pouvoir
-abler plus compétente
-ablest le_plus compétent
-abloom en fleur
+ablaze en_feu
+able capable
+able_to_ pouvoir
+abler plus_compétente
+abloom en_fleur
 ablution ablution
 ablutions ablutions
-ably_de_fac,on compétente, habilement
-abnegate Renouncer à
-abnegates renie, répudie, rejette
+abnegate renouncer_à
+abnegates renie
 abnegation abnégation
 abnormal abnormale
-abnormal anormal
-abnormal anormale
-abnormalities anomalies, difformités
-abnormality anomalie, malformation
+abnormalities anomalies
+abnormality anomalie
 abnormally anormalement
-aboard a\ bord
-abode of no fixed ~ :sans domicile fixe
-abodes_demeures, domiciles
-aboil en train_de_bouillir
+aboard à_bord
+abodes demeures
+aboil en_train_de_bouillir
 abolish abolir
-abolish abroger, supprimer
-abolishable qui peut e^tre aboli
+abolishable qui_peut_être_aboli
 abolished abolies
 abolisher suppresseur
-abolishes abolit, abroge, supprime
-abolishment suppression, abolition, abrogation
+abolishes abolit
+abolishment suppression
 abolition abolition
-abolition suppression
 abolitionism abolitionnisme
 abolitionist abolitionniste
-abolitionists abolitionnistes, antiesclavagistes hist
+abolitionists abolitionnistes
 abominable abominable
-abominably abominablement, odieusement
-abominate abhorrer, exécrer, abominer
+abominably abominablement
+abominate abhorrer
 abomination abomination
 abominations abominations
 aboriginal aborige\ne
 aboriginally aboriginalement
 aborigine aborigene
 aborigines aborigines
-abort faire avorter
+abort faire_avorter
 aborted avorté
-aborter avorteur 
-aborter avorteuse 
-aborter faiseuse d'anges
+aborter avorteur
 aborting discontinuant
-abortion avortement
 abortion avortement
 abortionist avorteur
 abortionists avorteurs
 abortions avortements
 abortive manquee
-abortively en vain
-aborts avorte, échoue, abandonne
+abortively en_vain
+aborts avorte
 abound abonder
 abounding abondant
-about approximatlyenviron, a_peu pres
+about a_peu_pres
 above au-dessus
-aboveboard régulier, correct
-aboveground au-dessus du sol, a\ la_surface
-abovementioned ci-haut mentionné
-abovementioned mentionné ci-dessus
+aboveboard régulier
+aboveground au-dessus_du_sol
+abovementioned ci-haut_mentionné
 abracadabra abracadabra
-abradable qui peut s'érafler, qui peut s'éroder
-abrade user en frottant, éroder
-abrasion frottement, écorchure, abrasion
-abrasions écorchures, égratignures
+abrade user_en_frottant
+abrasion frottement
+abrasions écorchures
 abrasive abrasifive
 abrasives abrasifs
-abreast_de_front
 abridge abreger
 abridged abrégé
 abridgement résumé
-abridging raccourc,ant
-abroad a\ l'étranger, au loin
+abridging raccourçant
+abroad à_l'étranger
 abrogate abroger
-abrogated abrogé, aboli
+abrogated abrogé
 abrogation abrogation
 abrupt abrupte
 abruptly brusquement
@@ -219,7 +174,7 @@ abruptness abrupte
 abscess abcès
 abscesses abce\s
 abscond s'enfuir
-absconded s'enfuir from, de
+absconded s'enfuir
 absence absence
 absences absences
 absent absent
@@ -229,7 +184,6 @@ absentees absentees
 absently distraitement
 absentminded distrait
 absentmindedly distraitement
-absentmindedly d'un_air distrait
 absentmindedness distraction
 absinth absinthe
 absinthe absinthe
@@ -240,7 +194,7 @@ absolutism absolutisme
 absolve absoudre
 absolved exonéré
 absolving exon/erant
-absorb absorber, retenir, assimiler
+absorb absorber
 absorbability absorbabilité
 absorbable absorbable
 absorbant absorbant
@@ -250,15 +204,14 @@ absorbing absorbant
 absorption absorbtion
 abstain abstenir
 abstained absteni
-abstemious frugale, sobre
+abstemious frugale
 abstention abstention
 abstentions abstentions
 abstinence abstinence
 abstinent sobre
 abstinently sobrement
 abstract abstrait
-abstract résumé, abrégé
-abstraction distraction, abstraction
+abstraction distraction
 abstruse abstruse
 absurd absurde
 absurdism absurdisme
@@ -270,18 +223,15 @@ abundant abondant
 abundantly abondamment
 abuse abus
 abused abusé
-abused insulter
 abusive abusif
 abusively abusivement
-abut etre contiguë à
+abut etre_contiguë_à
 abuzz bourdonnant
-abysmal épouvantable, abominable
+abysmal épouvantable
 abysmally abominablement
-abyss abi^me
-abyss abysse
-abysses abi^mes
-abysses abysses
-acacia_acacia
+abyss abîme
+abysses abîmes
+acacia acacia
 academic académique
 academical académique
 academically académiquement
@@ -292,7 +242,6 @@ academy académie
 acanthus acanthe
 acanthuses acanthes
 accede accéder
-accede consentir
 accelerate accélérer
 accelerated accéléré
 acceleration accélération
@@ -303,7 +252,6 @@ accelerometer accélérome\tre
 accelerometers accélérome\tres
 accent accent
 accented accenté
-accented accentué
 accents accents
 accentual accentuelle
 accentually accentuellement
@@ -318,7 +266,6 @@ acceptance acceptation
 accepted accepté
 accepter accepteur
 acceptor accepteur
-access acce\s, accéder verb
 accessed accessé
 accessibility accessibilité
 accessible accessible
@@ -341,7 +288,6 @@ acclimate acclimater
 acclimated acclimaté
 acclimatize acclimater
 accolade accolade
-accolades_accolades
 accommodate accomoder
 accommodated accommodé
 accommodating obligeante
@@ -354,7 +300,7 @@ accompaniment accompagnement
 accompaniments accompagnements
 accompanist accompaniste
 accompanists accompanistes
-accompany accompagner, accompagner qqn à
+accompany accompagner
 accompanyist accompagnateur
 accompanyists accompagnateurs
 accomplice complice
@@ -364,12 +310,11 @@ accomplished accomplie
 accomplishment accomplissement
 accomplishments accomplissements
 accord accord
-accordance in accordance with : en conformité avec
 accorder accordeur
 accorders accordeurs
 accordion accordéon
-accordionist accordionist     accordioniste
-accordionists accordionists     accordionistes
+accordionist accordionist
+accordionists accordionists
 accordions accordéons
 accords accords
 accost accoster
@@ -390,46 +335,26 @@ acid acide
 acidic acidique
 admission aveu
 allergen allergene
-allergen allergene
 allergic alergique
 allergies allergies
-allergies allergies
 allergy allergie
-allergy allergie
-alleviate apaiser, soulager
-alleviated apaisé, apaisée
-alley ruelle, allée
-alley ruelle, allée
-alleys ruelles, allées
-alleys ruelles, allées
-alliance alliance
+alleviate apaiser
+alleviated apaisé
+alley ruelle
+alleys ruelles
 alliance alliance
 alliances alliances
-alliances alliances
-allied allié, alliée
-allied allié, alliée
-alligator alligator
 alligator alligator
 alligators alligators
-alligators alligators
 alliteration allitération
-alliteration allitération
-alliterations allitérations
 alliterations allitérations
 allocate attribuer
-allocated attibué, attribuée
-allocation attribution
 allocation attribution
 allocations attibutions
-allocations attributions
 allocution allocution
-allocution allocution
-allocution attribution
 allot assigner
-allow autoriser, permettre
 allowable admissible
 allowance indemnité
-allowed autorisé, autorisée
 alloy alliage
 alphabet alphabet
 alphabetic alphabetique
@@ -456,33 +381,27 @@ altercations altercations
 alternate alterner
 alternated alterne
 alternately alternativement
-among parmi, entre[Preposition]
 amoral amoral
 amorous amoureux
-amorously amoureusement, avec amour
 amorphous amorphe
-amount s'elever. monter
-amount somme, quantite, importance
-amp ampere ; amplifier
+amount s'elever
+amp ampere
 ampere ampere
-ampersand et commercial ; esperluette
 amphetamine amphetamine
-and et[Preposition]
-anyway En tout cas,_de_toute facon
-anywhere n'importe ou ; partout
-aorta_aorte
+and et
+anyway en_tout_cas
+anywhere n'importe_ou
 apace rapidement
-apart a_part, separe
+apart a_part
 apartheid apartheid
-apartment apartement, chambre
+apartment apartement
 apathetic apathique
-apathy apathie, indifference
+apathy apathie
 ape singe
-ape singer
 aperitif aperitif
 aperture ouverture
 apex sommet
-aphid aphis; puceron
+aphid aphis
 arrive arrivant
 aspen abedul
 audit audit
@@ -500,8 +419,7 @@ baccarat baccarat
 bachelor célibataire
 bachelors célébataires
 bacilli bacilles_noun_masculine
-bacillus bacille noun_masculine
-back en arriere, en retour
+back en_retour
 backache douler_de_dos
 backbite calumnier
 backbone épine
@@ -509,11 +427,11 @@ background arriere-plan
 backgrounds arriere-plans
 backside derrie\re
 backslide régresser
-backup computer sauvegarde feminine
-backward en arrie\re[Preposition]
+backup computer_sauvegarde_feminine
+backward en_arrie\re[Preposition]
 bacon lard
 bacteria bactérie
-bad mauvais, torve
+bad mauvais
 badge insigne
 badged insignée
 badgers blaireaux
@@ -521,52 +439,50 @@ badinage badinage
 bag sac
 bagatelle bagatelle
 bagatelles bagatelles
-baggage effets, colis
-bags fouilles, étuis, sacs
+bags fouilles
 baguette baguette
 bah bannir
 bail caution
-bairn enfant écossais
-bait leurre, eche
-bake faire cuire
+bairn enfant_(écossais)
+bait leurre
+bake faire_cuire
 baker boulanger
 bakeries boulangeries
 bakers boulangers
 bakery boulangerie
 bakeshop boulangerie
-balance balance, équilibrer
+balance équilibrer
 balconies balcons
 balcony balcon
-bald chauve, à ras
+bald chauve
 baldhead chauve
 baldly ouvertement
 baldness calvitie
 bale ballot
 baleen baleine
 balk déjouer
-ball bal dance, ballon like for games
 ballad ballade
 ballade ballade
 ballads ballades
-ballast ballast, lest
+ballast ballast
 ballet ballet
 balletic balletique
-balloon ballon, aérostat
+balloon ballon
 ballot ballot
 balls bals
 ballyhoo publicité
 balm baume
-bamboo enfant italien
+bamboo enfant_italien
 bamboozle tricher
 banana banane
 bananas bananes
-band bande, chapelle
+band bande
 bandage bandage
 bandeau bandeau
-bandit brigand, forban, bandit
-bandits brigands, forbans, bandits
-bandleader chef d'orchestre
-bandmaster chef d'orchestre
+bandit brigand
+bandits brigands
+bandleader chef_d'orchestre
+bandmaster chef_d'orchestre
 bane poison
 banished banni
 barb barbe
@@ -579,9 +495,7 @@ barman serveur
 barracks casernes
 beach plage
 bear ours
-bear supporter
 bed lit
-bedroom chambre a_coucher
 believe croire
 betray trahir
 bibliographic bibliographique
@@ -591,17 +505,16 @@ blackberry zarzamorra
 bonjour hello
 book livre
 boomerang boomerang
-boxer ~ shorts caleçon
-boy garc,on
-boys garc,ons
+boxer_short caleçon
+boy garçon
+boys garçons
 brain cerveaux
-brood rimuginare, covare
-broom balai
+brood rimuginarebroom_balai
 broth bouillon
 build construire
-building ba^timent
-bye bon voyage, ciao[Preposition]
+building bâtiment
 cab taxi
+c'mon ben_voyons
 cabal cabale
 cabala cabale
 cabalism cabalisme
@@ -617,12 +530,12 @@ cabinet cabinet
 cabinetmaker ébéniste
 cabinetmakers ébénistes
 cabinets cabinets
-cabins cabanes,shipscabines
-cable ca^ble
+cabins cabanes
+cable câble
 cabled cablé
-cablegram ca^blogramme
-cablegrams ca^blogrammes
-cables ca^bles
+cablegram câblogramme
+cablegrams câblogrammes
+cables câbles
 cabling cablage
 cabman cocher_de_fiacre
 caboose caboose
@@ -641,14 +554,13 @@ cackles caquets
 cackling caquetant
 cacophony cacophonie
 cacti cactusplural
-cactus cactus singular
+cactus cactus
 cad mufle
 cadaver cadavre
 cadaverous terreux,
-caddies boi^tes a\ thé
-caddy boii^te a\ thé
+caddies boîtes_à_thé
+caddy boiîte_à_thé
 cadence cadence
-cadet cadet, younger son
 cadetship brevet_de_cadet
 cadge mendier
 cadger mendiant
@@ -660,14 +572,13 @@ caffeine caféine
 caftan caftan
 cage cage
 cages cages
-cahier copy book
+cahier copy_book
 cairn cairn
 cairns cairns
-caitiff la^che
+caitiff lâche
 cajole cajoler
 cajoler cajoleur
 cajolery cajolerie
-cake ga^teau
 cake gâteau
 calcium calcium
 calculate calculer
@@ -679,7 +590,7 @@ car voiture
 carbonization carbonisation
 carbonize carboniser
 carbonized carbonise
-carbonless sans carbone
+carbonless sans_carbone
 carburetor carburateur
 carburetors carburateurs
 carburization carburation
@@ -691,11 +602,9 @@ cardigan cardigan
 cardioid cardioide
 cardioids cardioides
 care attention
-care care
 cared attentionne
 career cariere
 careful attentionne
-carefully avec attention
 cat le_chat
 cell cellule
 cellular cellulaire
@@ -707,79 +616,45 @@ cloak manteau
 cloaks manteaux
 clock horloge
 clockmaker horloger
-clockwise dans le_sens des_aigu.illes_d'une_montre
+clockwise dans_le_sens_des_aiguilles_d'une_montre
 cloister cloitre
 clone clone
 cloud le_nuage
-c'mon ben voyons
-coal charbon masc.
+coal charbon_masc.
+in_accordance_wi en_conformité_avec
 computer ordinateur
 computers ordinateurs
-comrades_amis
 concealed étouffé
 conjuring escamotage
 contemplate contempler
-contemplate envisager
-contemplate prévoir
 contemplates envisage
 contemplation contemplation
-contemplation méditation
-contemplation recueillement
 contemplations contemplations
-contemplations méditations
 contemplative contemplatif
 contemporaneous contemporain
-contemporaneously en me^me temps que 
+contemporaneously en_même_temps_que
 contemporaries contemporains
-contemporaries_de_la_me^me génération
 contemporary contemporain
-contemporary_de_la_me^me génération
 contempt dédain
-contempt mépris
 contemptible indigne
-contemptible méprisable
-contemptibly avec mépris
-contemptuous_de_mépris
-contemptuous méprisant
-contemptuously avec dédain
-contemptuously avec mépris
+contemptuous de_mépris
 contend combattre
-contend disputer
-contend lutter
 contender candidat
-contender challenger
-contender concurrent
 contenders candidats
-contenders challengers
-contenders concurrents
 contending concurrents
-contending opposées
 contends dispute
-contends lutte
 content contenter
-content satisfaire
-content satisfait
 contented content
-contented satisfait
-contentedly avec contentement
+contentedly avec_contentement
 contentedness contentement
 contention dispute
-contention émulation
-contention lutte
 contentions disputes
-contentions émulations
-contentions luttes
 contentious contentieux
-contentious querelleur
 contentment contentement
 contents contenu
-contents table_de_matie\res
 contest combat
-contest concours
-contest contester
 contestant combattant
-contestant concurrent
-cot lit d'enfant
+cot lit_d'enfant
 coterie coterie
 cotillion cotillon
 cotillon cotillon
@@ -824,7 +699,7 @@ courtier courtisan
 courtliness élégance
 courtly élégant
 courtmartial conseil_de_guerre
-courtroom salle d'audience
+courtroom sale_d'audience
 courtship cour
 cousin cousin
 cove anse
@@ -834,15 +709,14 @@ covert caché
 covet covoiter
 covetous avide
 covetously avidement
-cow la_moo cowetta
-cow la_vache
-coward la^che
-cowardice la^cheté
-cowardly la^che
-cower se blottir
+cow la_moo_cowetta
+coward lâche
+cowardice lâcheté
+cowardly lâche
+cower se_blottir
 cowherd vacher
 cowl capuchon
-coxcomb petit-mai^tre
+coxcomb petit-maître
 coy farouche
 coyly modestement
 coyness réserve
@@ -850,7 +724,7 @@ coyote coyote
 cozily confortablement
 cozy confortable
 crab cancre
-crabapple pomme sauvage
+crabapple pomme_sauvage
 crabbed maussade
 crack fente
 cracker pétard
@@ -858,20 +732,20 @@ crackle craqueter
 cradle berceau
 craft fourberie
 craftily astucieusement
-crag rocher escarpé
+crag rocher_escarpé
 cram fourrer
 cramp crampe
-cranberry airelle coussinette
+cranberry airelle_coussinette
 crane grue
-cranium cra^ne
+cranium crâne
 crank manivelle
-crankiness humeur difficile
-cranky d'humeur difficile
-crape cre^pe
+crankiness humeur_difficile
+cranky de_humeur_difficile
+crape crêpe
 crash retentir
-crate caisse a\ claire-voie
+crate caisse_à_claire-voie
 crater crate\re
-crave désirer ardemment
+crave desirer_ardemment
 craven poltron
 crawl ramper
 crayfish écrevisse
@@ -903,14 +777,13 @@ creep ramper
 creeps chair_de_poule
 cremate incin/erer
 cut couper
-cute mignon, charmant, adorable
-cute mignonne
-cuteness gentillesse, charme
-cutoffs limite, seuil
-cutout forme a\ découper
-cuts économies, réduction_de_budget
+cute mignon
+cuteness gentillesse
+cutoffs limite
+cutout forme_à_découper
+cuts économies
 cutter couteau_de_découpage
-cutting d/ecoupe, découpage
+cutting d/ecoupe
 cyanate cyanante
 cyanide cyanure
 cybernetic cybernétique
@@ -921,41 +794,40 @@ cyclic cyclique
 cyclical cyclique
 cyclist cycliste
 cyclists cyclistes
-cycloid cycloi.de
-cycloidal cycloi.dal
+cycloid cycloïde
+cycloidal cycloïdal
 cyclone cyclone
 cyclonic cyclonique
 cyclopean cyclopéen
 cyclotron cyclotron
 cylinder cylindre
 dad papa
+d'art d'art
+d'etat d'état
+d'etre d'être
+d'oeuvre d'oeuvre
 daddies papas
 daddy papa
 dads papas
 daffy barjot
 daft barje
-dagger dague une
-dahlia_dahlia
+dagger une_dague
 dahlias dahlias
 daily quotidien
-daintier plus délicat
+daintier plus_délicat
 dainty délicat
 dairy laitier
 dalmatian dalmatien
 dalmatians dalmatiens
 dam barrage
 damage abimer
-damage déga^t
-damage endommagement
-damage endommager
-damaged endommagé
 damaged endommagé
 damager endommageur
 damagers endommageurs
-damages déga^ts
+damages dégâts
 damaging endommageant
 dame dame
-dammit merde alors
+dammit merde_alors
 damnation damnation
 damned damné
 damp humide
@@ -973,10 +845,9 @@ dandies dandys
 dandruff pelicule
 danger danger
 dangerous dangereux
-d'art d'art
 day jour
 daybreak aube
-daylight lumiere du jour
+daylight lumiere_du_jour
 days jours
 deactivate désactiver
 deactivation désactivation
@@ -986,10 +857,7 @@ deaths morts
 deep profond
 density densité
 deserve meriter
-d'etat d'état
-d'etre d'être
 device périph/erique
-device périphérique
 dictated dicté
 dictates dicte
 dictation dictée
@@ -1015,7 +883,6 @@ dilate dilater
 dilated dilaté
 doctor docteur
 document document
-d'oeuvre d'oeuvre
 dog chien/ne
 doggie chien/ne
 dogs chiens
@@ -1031,15 +898,15 @@ eagle aigle
 eagles aigles
 eaglet aiglon
 ear oreille
-earache mal d'oreille
+earache mal_d'oreille
 eardrum tympan
 eardrums tympans
-earlobe lobe d'oreille
-early to^t
+earlobe lobe_d'oreille
+early tôt
 earn gagner
 earning gagner
 earphones écouteurs
-earring boucle d'oreille
+earring boucle_d'oreille
 earrings boucles_d'oreille
 ears oreilles
 earth terre
@@ -1051,12 +918,12 @@ earthworms vers_de_terre
 earwax serumen
 ease facilité
 easel chevalet
-easier plus facile
-easiest le_plus facile
+easier plus_facile
+easiest le_plus_facile
 easily facilement
 easiness facilité
 east est
-easter Pa^ques
+easter Pâques
 easy facile
 eat manger
 eatable comestible
@@ -1075,12 +942,12 @@ ecru écru
 eight huit
 eighteen dix-huit
 eighteenth dix-huitie\me
-eightfold huit fois
+eightfold huit_fois
 eighth huitie\me
-eighties les_années quatre-vingt
+eighties les_années_quatre-vingt
 eightieth quatre-vingtie\me
 eighty quatre-vingt
-eightyfold quatre-vingt fois
+eightyfold quatre-vingt_fois
 einsteinium einsteinium
 either soit
 ejaculate éjaculer
@@ -1097,7 +964,7 @@ ejection éjection
 ejector éjecteur
 ejectors éjecteurs
 elaborate élaborer
-elaborated élaboré, élaborée
+elaborated élaboré
 elaborates élabore
 elaborating élaborant
 elaboration élaboration
@@ -1111,8 +978,6 @@ environment ambiente
 environmental ambiental
 envoy enviado
 envy envidia
-envy envidiar
-escalator escalier roulant
 establish constater
 event occasion
 eventual final
@@ -1122,7 +987,6 @@ evergreen permanent
 everlasting permanent
 every chaque
 everywhere partout[Conjunction]
-eviction mise a` l' écart
 evidence preuve
 exclaim s'exclaimer
 fable fable
@@ -1133,21 +997,20 @@ fabricate fabriquer
 fabricated fabriqué
 fabricates fabrique
 fabricating fabriquant
-fabrication inventions, fabulation; fait, forgee_de_toutes pieces
+fabrication inventions
 fabrications fabrications
 fabricator fabricant
 fabricators fabricants
 fabrics tissus
 fabulist fabuliste
-fabulous fabuleuxeuse;  formidable
-facade fac,ade
-facades_fac,ades
-face visage, figure; expression; of clock cadran;  of building facade
-faceless sans face
-faceplate face avant,panneau avant
+fabulous fabuleuxeuse
+facade façade
+facades façades
+face visage
+faceless sans_face
+faceplate face_avant
 facet facette
 facetious facétieux
-facetious plaisant
 facetiously facétieusement
 facial facial
 facies facie\s
@@ -1157,9 +1020,9 @@ facilitated facilité
 facilitates facilite
 facilitating facilitant
 facilities instalations
-facility usine, établissement
-facing face a, en face de[Preposition]
-facsimile document telecopie; machine telecopieur
+facility usine
+facing face_a
+facsimile document_telecopie
 fact fait
 faction faction
 factor facteur
@@ -1173,19 +1036,19 @@ factorized factorisé
 factors facteurs
 factory usine
 facts faits
-factual factuel,factuelle
+factual factual_(-elle)
 facultative facultatif
 facultatively facultativement
 faculties facultés
 faculty faculté
-fad affaiblir, atténuer
-fade se faner
-faded affaibli, atténué
+fad affaiblir
+fade se_faner
+faded affaibli
 fader atténuateur
 faders atténuateurs
-fading affaiblissement, atténuation
+fading affaiblissement
 faery fée
-faience fai.ence
+faience faïence
 fail échouer
 faint s'évanouir
 faintly faiblement
@@ -1196,7 +1059,6 @@ faith foi
 faithful fide\le
 faithfully fide\lement
 fashion mode
-fashionable a\ la_mode
 fast rapide
 fasten attacher
 fastener fermeture
@@ -1209,7 +1071,6 @@ fatally mortellement
 fate destin
 fish poisson
 fishable pêchable
-fishbowl bôl à poisson
 fished pêché
 fisher pêcheur
 fisheries poissonneries
@@ -1218,7 +1079,6 @@ fishermen pêcheurs
 fishers pêcheurs
 fishery poissonnerie
 fishes poissons
-fishing à la_pêche
 fishtail queue-de-poisson
 fission fision
 fissionable fisionable
@@ -1227,7 +1087,6 @@ fist poing
 fisted poingé
 fistful poingée
 five cinq
-fivefold cinq fois
 fix réparer
 fixation fixation
 fixations fixations
@@ -1245,13 +1104,13 @@ forget oublier
 forgetful oublieux
 forgetfulness manque_de_mémoire
 forgivable excusable
-forgivably_de_fac,on excusable
+forgivably_de_faç excusable
 forgive pardonner
 forgiveness pardon
 forgives pardonne
 forgiving indulgent
-forgo renoncer \a
-forgoes renonce \a
+forgo renoncer\a
+forgoes renonce\a
 forgotten oublié
 forlorn délaissé
 formaldehyde formaldéhyde
@@ -1271,11 +1130,11 @@ frogs grenouilles
 from de
 front devant[Preposition]
 fucked foutu
-fudge sucre a` la_cre`me
+fudge sucre_à_la_crème
 fugue fugue
 fulgurant fulgurant
 funk frouse
-funniest le_plus amusant
+funniest le_plus_amusant
 funny amusant
 gab bavarde
 gabardine gabardine
@@ -1326,15 +1185,13 @@ golfer geolfeur
 golfers golfeurs
 golfs golfs
 good bien
-good bon
-good bien
 goodbye au_revoir
 goodnight bon_nuit
 gopher gopher
 gospel evangile
 gown la_robe
-grab saisir_an_object
-gradient pente math.
+grab saisir
+gradient pente_(maths)
 gradually graduellement
 grammar grammaire
 grape le_raisin
@@ -1347,7 +1204,7 @@ habitants habitants
 habitat habitat
 habitation demeure
 habitual usuel
-had se faire avoir
+had se_faire_avoir
 hand main
 head tete
 heats series
@@ -1374,12 +1231,12 @@ help aide
 hemp chanvre
 hen poule
 herd troupeau
-here ic,i
+here içi
 heron huron
 hips flancs
 hit frapper
 hockey hockey
-hogwash non sense
+hogwash non_sense
 holidayer vacancier
 holidays vacances
 home maison
@@ -1387,80 +1244,57 @@ homeless sans-abri
 homes maisons
 house maison
 ice glace
-in_a_jiffy en_un_clin_d'oeil
+in_a_jif en_un_clin_d'oeil
 instancing instanciation
-internship stage professionnel en entreprise ou ailleurs
 jab planter
 jabber baragouiner
-jabberwocky Jaseroque, Bredoulocheux, Berdouilleux, Jabberwocheux
-jabberwocky playing card valet
+jabberwocky Jaseroque
 jack criq
-jack valet
 jackal chacal
 jackals chacaux
-jackass a^ne
+jackass âne
 jackdaw choucas
 jacket blouson
-jacket veste
-jackhammer marteau piqueur
 jackknife canif
-jackpot gros lot
 jade jade
 jaded briméee
-jag bombe, noce
 jagged ébréche
 jail emprisonner
-jail prison
 jailbreak evasion
 jailed emprisonné
-jailer geo^lier
+jailer geôlier
 jailing incarcération
-jailor geo^lier
+jailor geôlier
 jails prisons
 jalopy guimbarde
 jam confiture
-jam enfoncer
 jamb jambage
 jammed coincé
-jammed enrayé
-jangle bells faire retenir
-janitor agent d'entretien
 janitor concierge
 jar bocal
-jar pot
-jar secousse
 jargon jargon
 jasmine jasmin
 jaundice jaunisse
 jaunt balade
 jaunty désinvolte
-jaunty insouciante
 javelin javelot
-jaw ma^choir
-jaws ma^choires
+jaw mâchoir
+jaws mâchoires
 jay geai
 jazz jazz
 jazzy voyante
-jealous jaloux, jalouse
 jealousy jalousie
 jeer conspuer
-jeer huer
 jelly gelée
 jellyfish meduse
 jeopardize compromettre
-jeopardize metre_en_danger
 jerk abruti
-jerk bousculer
 jerry boche
-jersey cloth jersey
 jersey pull
 jest plaisanterie
 jester bouffon
-jester fou
 jet gicleur
-jet réacteur
 jettison jeter
-jettison larguer
 jetty jetée
 jewel joyau
 jeweler bijoutier
@@ -1469,96 +1303,61 @@ jewelry bijouterie
 jewels joyaux
 jinx poisse
 jitters trac
-job boulot colloq.
 job emploi
-job turbin slang
-jobless au chômage
 jockey jockey
 jocular enjouée
-jocular joviale
 jocund gai
 jodhpur jodhpur
 jog faire_du_jogging
 jogging jogging
 join raccord
-join rejoindre
 joinable joignable
 joined rejoint
 joiner menuisier
 joinery menuiserie
 joint articulation
-joint drugs joint
-joint jointure
 jointly conjointement
-joke blague colloq.
 joke plaisanterie
 joked plaisanta
 joker joker
 jokingly en_plaisantant
-jokingly pour rire
-jolly joviale, enjouée
 jolt secousse
-jolt soubresaut
 jonquils jonquilles
 jostle bousculer
-jot ~ down noter
-jot of truth grainm, brinm
-journal diary journal
-journal magazine revue
 journalism journalisme
 journalist journaliste
 journalists journalistes
 journey periple
-journey voyage
 jovial joviale
 jovially jovialement
 joy joie
 joyful joyeux
 joyfully joyeusement
-joyless sans joie
 joyously joyeusement
 jubilant débordante_de_joie
 jubilee jubilé
 judge juge
-judge juger
 judged jugé
 judgement jugement
 judicial judiciaire
 judiciary magistrature
 judo judo
 jug broc
-jug pichet
-jug pot
-juggernaut poids lourd
 juggle jongler
-juggler jongleur, jongleusse
 jugular jugulaire
 juice jus
-juiceless sans jus
-juicier plus juteux
-juiciest le_plus juteux
-juicy juteux, juteuse
 jukebox juke-box
 jumble mélange
 jumbo géante
-jump sauter inf.
 jumped sauta
-jumper robe chasuble
 jumpy nerveuxeuse
 junction jonction
-junction rail embranchement
 jungle jungle
 junior junior
 juniper genie\vre
 junk bric-à-brac
-junk camelotte colloq.
-junk des_ordures
-junk du toc colloq.
-junkers casseurs colloq.
 junkers chiffonniers
-junkie accro colloq.
 junkie droguée
-junkyard une_casse automobile
 juridic juridique
 jurisdiction juridiction
 jurist juriste
@@ -1570,7 +1369,6 @@ justice justice
 justified justifiée
 justify justifier
 justly justement
-jut ~ out avancer
 juvenile puérile
 juxtapose juxtaposer
 kale chou
@@ -1581,49 +1379,22 @@ karat carat
 karate karaté
 kayak kayak
 kebab brochette
-keel la_quille naut.
-keep garder inf.
 keeps toujours
 keepsake souvenir
-keg caisson liq.
-keg tonnelet, baril
 kennel niche
-kennel un_chenil
 kerchief un_foulard
 kernel amande
-kernel noyau
-kernel trognon fruit
 kerosene kérosène
 ketchup ketchup
 kettle une_bouilloire
-key map légende
-key une_clé, or clef
-key une_touche keyboard
 keyboard un_clavier
 keyhole le_trou_de_la_serrure
-keying taper typewriter inf.
-keynote note dominante
-keypad keyboard pavé numérique
-keypad un_clavier adding machine
 khaki kaki
-kick ~ out vider
-kick donner inf. un_coup_de_pied
 kickback un_retour_de_manivelle
-kicked frappé du pied
-kicker qui donne des_coups_de_pied
-kickoff le_depart synchronisé
 kicks s'amuser
-kid un_chevreau, une_chevrette
-kid une_gosse colloq.
-kid une_mioche colloq.
 kiddies les_gamins
-kiddies les_gosses
-kiddies les_mioches colloq.
-kidnap enlever inf.
 kidnap kidnapper
-kidnaped enlevé past.part.
 kidnaper enlèvement
-kidnaper un_ravisseur
 kidnapers les|des_ravisseurs
 kidnaping un_enle\vement
 kidnapped enlevé
@@ -1632,171 +1403,96 @@ kidnappers les|des_ravisseurs
 kidnapping un_enle\vement
 kidnappings des_enle\vements
 kidney le_rein
-kidneys les_rognons cooking
 kidneys les|des_reins
 kids les|des_gamins
-kids les|des_gosses
-kill fig. mettre fin à
 kill tuer
 killer meurtrier,meutrière
-killer un_tueur
 killers des_tueurs
 killing meutre
-killing une_tuerie
 killings des_tueries
 killjoy rabat-joie
 kiln four
-kiln un_fourneau
 kilo kilo
 kilobytes kilo-octet
-kilogram kilogramme abbr. kg
 kilohertz kilo-hertz
-kiloliter un_kilolitre abbr. kl
-kilometer un_kilome\tre abbr. km
 kilowatt kilowatt
 kilt kilt
-kin aparenté a\...
 kind aimable
-kind doux_de_caracte\re
-kind gentille
-kindergarten école maternelle
-kindergarten le_jardin d'enfants
-kindergarten une_cre^che pour enfants
-kindergarten une_garderie d'enfants
 kindhearted bon_de_caracte\re,_de_coeur
-kindhearted tendre_de_coeur
 kindheartedness la_tendresse_de_coeur
-kindle feeling susciter
-kindle fire allumer
 kindlessly froidement
-kindlessly sans coeur
 kindliness la_douceur
-kindliness la_gentillesse
-kindly avec douceur
 kindly bienveillante
-kindly doucement
-kindly gentiment
 kindness la_douceur_de_coeur
-kindness la_gentillesse
 kindred aparenté
-kindred semblable, similaire
 kinds des_espe\ces
-kinds des_sortes de...
 king le_roi
-kingdom animals/plants règne
 kingdom le_royaume
 kingdoms royaumes
-kingfisher un_martin pe^cheur bird
 kingly royal
 kings les_rois
 kinky vicieuxieuse
 kiosk kiosque
-kipper hereng fumé
 kiss baiser
-kiss baiser
-kiss bisou
-kiss embrasser
 kisses baisers
-kisses bisous
-kit set trousse
-kit to be assembled kit
 kitchen cuisine
 kitchenette cuisinette
 kitchens cuisines
 kitchenware la_batterie_de_cuisine
-kitchenware les_ustensiles_de_cuisine
 kite un_cerf-volant
-kith ~ and kin parents et amis
-kiting jouer avec un_cerf-volant
 kitten chaton
 kittens chatons
-kitty shared fund cagnotte
 kiwi apteryx_(bird)
-kiwi kiwi_(fruit)
 kleenex papier-mouchoir
-kleenex un_mouchoir en papier
 kleptomania la_kleptomanie
 kleptomaniac une_kleptomane
-knack _ _ _ _ = avoir la_main pour..
-knack to have the _ = avoir le_chic
-knapsack un_sac-a\-dos
+knapsack un_sac-à-dos
 knead pétrir
 kneadable pétrissable
 kneader pétrisseur
 knee le_genou
 kneecap la_rotule
-kneel mettre à genoux
-kneel s'agenouiller inf.reflx.
-kneeling a\ genoux
 kneeling s'agenouillant
 kneepad un_prote\ge-genou
-knelt s'agenouilla pass.simp.
-knelt se mise a\ genoux pass.simp
 knickers pantalon_de_golf
 knickknack un_bibelot
-knickknack une_babiole
 knife un_canif
-knife un_couteau
 knifes des_couteaux
-knifing une_blessure au couteau
-knight chess cavalier
 knight un_chevalier
-knighted e^tre sacré chevalier
 knighthood la_chevalerie
 knightly chevalier
 knights des_chevaliers
-knit bones se souder
-knit froncer les_sourcils
-knit tricotter inf.
-knitted tricotté past.part.
 knitting le_tricot
 knitwear le_tricot
 knives des_couteaux
 knob la_poignée
-knob un_bouton_de_commande
-knobby noueux, noueuse
 knobs les_boutons_de_commande
-knock frapper inf.
 knock tapoter
 knockdown démolir
 knockout knock-out
 knot un_noeud
 knots des_noeuds
-knotted noué past.part.
 knotty épineuxeuse
-knotty noueux
-know savoir inf.
-knower celui|celle qui a le_savoir
 knowhow le_savoir-faire
-knowhow technique
 knowing entendue
 knowingly en_connaissance_de_cause
-knowingly sciemment
 knowledge la_connaissance
-knowledge le_savoir
 knowledgeable bien_informée
 known connu
 knows il/elle_sait
 knuckle meat_jarret
-knuckle une_phalange
 knucklebone une_phalange
 knuckles les_phalanges
-knuckles un_poing_américain
 koala koala
 kosher cache\re
-kosher kasher
 kraut boche
-kraut la_choucroute
 krauts les_chleus
 kudzu lierre_du_Japon
 lab labo
 labor travail
 laborer l'ouevrier
-laborer l'ouvrier
 laborers les_ouevriers
-laborers les_ouvriers
 laborious laborieuse
-laborious laborieux
 labyrinth labyrinthe
 lace dentelle
 laceration lacération
@@ -1809,7 +1505,6 @@ lackluster terne
 laconic laconique
 laconically laconiquement
 lacquer laque
-lacquer vernis
 lad garcon
 ladies Mesdames
 lady dame
@@ -1831,7 +1526,7 @@ lecture conférence
 lecturer conférencier
 ledge rebord
 ledger registre
-lee co^té
+lee côté
 leg jambe
 legal legal
 legality legalite
@@ -1843,33 +1538,21 @@ legend legende
 legendary lengendaire
 legion legion
 letter additive[]
-letter ethnic[]
-letter neighbor[]
 like aimer
 live vivre
 love aime
-love amour
 lover amant
 luck chance
 lunch le_dejeuner
 ma maman
-ma Mère
 ma'am madame
-ma'am mademoiselle
-ma'am M'dame
 macabre lugubre
-macabre macabre
 macabrely macabrement
 macadam bitume
-macadam macadam
 macadamize goudronner
-macadamize macadamiser
 macadamized goudronné
-macadamized macadamisé
 macadamizes goudronnes
-macadamizes macadamise
 macadamizing goudronnant
-macaque macaque
 macaque macaque
 macaroni macaroni
 macaronies macaronis
@@ -1877,7 +1560,6 @@ macaroon macaron
 macaw l'ara
 mace sceptre
 macerate macérer
-macerate maçérer
 macerated maceré
 maceration macération
 macerations macérations
@@ -1917,13 +1599,10 @@ maculates macule
 maculation maculation
 maculations maculations
 mad faché
-mad folle
-mad fou
 madam madame
 madams mesdames
 maddened rendu_fou
 made a_fait
-made j'adore
 mademoiselle mademoiselle
 mademoiselles mesdemoiselles
 maestro maestro
@@ -1939,7 +1618,6 @@ magma magma
 me moi
 mead le_hydromel
 meadow le_pré
-meadow pré
 meadowland les_prairies
 meadows prés
 meager maigre
@@ -1947,7 +1625,6 @@ meagerly maigrement
 meagre maigre
 meal repas
 meals repas
-mealtime heure du repas
 mean moyenne
 meander méandre
 meaningless insensé
@@ -1999,7 +1676,6 @@ medusae méduses
 meek doux
 meekly avec_soumission
 meekness soumission
-meerschaum pipe en écume_de_mer
 megabyte méga-octet
 megabytes méga-octets
 megacycle mégacycle
@@ -2034,7 +1710,6 @@ memorable mémorable
 memories souvenirs
 memorize mémoriser
 memorized mémorisé
-memory mémoire, souvenir
 men hommes
 menace menace
 menaced menacé
@@ -2093,26 +1768,18 @@ moon lune
 moonlight clair_de_lune
 moons lunes
 moose orignal
-naive naif, naive
 naively naivement
 naked nu
-name prenompersons, nom things
 named nomme
-nameless sans nom
-namely nomement 
-namely nommement
-names prenoms, noms see name
+namely nomement
 national national/e
 nationalism nationalisme
 nationalist nationaliste
-native habitant/e du pays
-natural naturel le
 naturalize naturaliser
 naturally naturellement
 neap mortes-eaux
 near proche
 nearby près
-nearer plus proche
 neglect abandonner
 neighbor voisin
 neighbors voisins
@@ -2122,10 +1789,8 @@ networks réseaux
 nine neuf
 nineteen dix-neuf
 nineteenth dix-neuvie\me
-nineties les_années quatre-vingt-dix
 ninetieth quatre-vingt-dixie\me
 ninety quatre-vingt-dix
-ninetyfold quatre-vingt-dix fois
 ninth neuvie\me
 niobium niobium
 nip téton
@@ -2152,21 +1817,16 @@ nobody personne
 noctambulism noctambulisme
 noctambulist noctambule
 nocturn noctune
-nocturnally_de_nuit
 now maintenant
-nowadays_de_nos jours, aujourd'hui
-noway pas question, pas du tout
-noway pas question, pas du tout
 oaf nigaud
 oafish stupide
 oafishness sottise
-oak che^ne
+oak chêne
 oar rame
 oarsman rameur
 oasis oasis
 oat avoine
 oath serment
-oatmeal farine d'avoine
 obdurate invétéré
 obedience obéissance
 obedient soumis
@@ -2221,45 +1881,28 @@ orthodox orthodoxe
 orthodoxes orthodoxes
 orthogonal orthogonal
 pace rhytme
-pace vitesse
-pacemaker stimulateur cardiaque, pacemaker
 pachyderm pachyde\rme
 pacific pacifique
 pacifically pacifiquement
 pacification pacification
 pacifications pacificateur
-pacifications pacificatrice 
 pacificist pacifiste
 pacifier sucette
-pacifier tétine 
 pacifism pacifisme
 pacifist pacifiste
 pacify apaiser
-pacify pacifier
 package ballot
-package emballage
-package paquet
 packaged emballeE
-packaged paquet
 packed bourrée
-packed_with bourrée_de
-packet  ballot
+packed_wit bourrée_de
 packet paquet
 packing emballage
 pact contrat
-pact pacte
-pacts pcates, contrats
-pad coussinet, tampon
 padding rembourrage
-padding remplissage
-paddle pagaie, palette
-paddock enclos, paddock
 padlock cadenas
-padlock cadenasser
 padrone patron/nne
 paella paella
 pagan paigen/enne
-pagan payen /nne
 pagans pa&iumlennes
 pageant spectacle
 pageantry apparat
@@ -2268,11 +1911,9 @@ pail seau
 pain douleur
 pained peinée
 painful douleureux
-painful pénible
 painfully douloureusement
 painstaking assidue
 paint peindre
-paint peinture
 paintbrush pinceau
 painter peintre
 painters peintre
@@ -2281,9 +1922,7 @@ paints couleurs
 pair couple
 pajamas pyjama
 pal copain
-pal copine
 palace palais
-palatable agréable au goût
 palaver palabres
 pale pâle
 palette palette
@@ -2291,12 +1930,9 @@ pall voile
 pallet palette
 pallette palette
 pallor pâleur
-palm ~ tree palmier
 palm paume
 palpable évidente
-palpable manifeste 
 paltry dérisoire
-pamper choyer, dorloter
 pamphlet brochure
 pan casserole
 panacea panacée
@@ -2304,13 +1940,11 @@ panama Panama
 pancake crêpe
 panda panda
 pandemonium tohu-bohu
-pane vitre, carreau
 panel invités
 paneling lambris
 panelling lambris
 pang tiraillement
 panic panique
-panic paniquer
 panicky paniquée
 panorama panorama
 pansy penséef
@@ -2331,7 +1965,6 @@ passivity passivité
 password mot_de_passe
 passwords mots_de_passe
 past passe
-pasta pâtes alimentaires
 peat tourbe
 pectorals pectoraux
 peculiar important
@@ -2386,21 +2019,16 @@ polarity polarity
 polarize polariser
 polarized polarisé
 polemical polémique
-polemically_de_fac,on polémique
-polemically_de_manie\re polémique
+polemically_de_faç polémique
+polemically_de_manie\ polémique
 polemicize polémiquer
 police police
 policeman agent
-policeman agent_de_police
-policeman policier
 policemen agents
-policemen agents_de_police
-policemen policiers
 policewoman contractuelle
 policewomen contractuelles
 policy politique
 polish polonais
-polish Polonais
 polite poli
 politely poliment
 politeness politesse
@@ -2434,49 +2062,34 @@ practical pratique
 pray prier
 prayer prie\re
 prayers prie\res
-praying en prie\res
 praying prie\re
-preach pre^cher
-preach prononcer
+preach prêcher
 preacher pasteur
-preacher prédicateur
 preachers pasteurs
-preachers prédicateurs
-preaches pre^che
-preaches prononce
-preachify faire la_morale
-preaching pre^cheur
-preaching prédication
-preaching sermons
-preachy pre^cheur
-preachy sermonneur
+preaches prêche
+preachify faire_la_morale
+preaching prêcheur
+preachy prêcheur
 preamplifier préamplificateur
 preamplifiers préamplificateurs
-prearrange arranger au préalable
-prearrange arranger d'avance
+prearrange arranger_au_préalable
 prince prince
 princedom principauté
 princely princier
 princes princes
 princess princesse
 principal directeur
-principal principal
 principalities principautés
 principality principauté
 principally principalement
-principally surtout
 principals directeurs
 principle principe
 principles principes
 print empreinte
-print impression
-print marque
 printable imprimable
 printed imprimé
 printer imprimante
-printer imprimeur
 priorities priorité
-priorities priorités
 priority priorité
 prove prouver
 pulse impulsion
@@ -2492,7 +2105,7 @@ pulverizing pulvérisant
 puma puma
 pump pomper
 push pousser
-pushchair chaise roulante
+pushchair chaise_roulante
 pushing poussé
 put mettre
 putdown poser
@@ -2505,33 +2118,32 @@ quality qualité
 qualm scrupule
 qualms scrupules
 quantity quantité
-quarrel se disputer
+quarrel se_disputer
 quarry carri\ere
 quarter quartier
-quarterdeck plage arri\ere
+quarterdeck plage_arri\ere
 quarterfinal quart_de_finale
 queen reine
 queer bizarre
 quell réprimer
-quench se désaltérer
+quench se_désaltérer
 querulous ronchonneur
 query question
-quest que^te
+quest quête
 question question
 queue queue
 quibble chicaner
 quick rapide
-quicklime chaux vive
 quickly rapidement
 quicksand sables_mouvants
 quicksilver vif-argent
 quiet tranquille
 quieten calmer
 quietly doucement
-quill plume d'oie
+quill plume_d'oie
 quilt édredon
 quirk bizarrerie
-quit se rendre
+quit se_rendre
 quite assez
 quota quota
 quotation citation
@@ -2558,12 +2170,10 @@ racial racial
 racialism racisme
 racialist raciste
 racialistic raciste
-racing_de_course
 racism racisme
 racist raciste
 rack étag\ere
 racket raquette
-racket tumulte
 radar radar
 radars radars
 radio radio
@@ -2573,50 +2183,31 @@ readable lisible
 reader lecteur
 readers lecteurs
 readership lecteurs
-readership lectorat
-readily_de_bonne gra^ce
+readily_de_bon grâce
 readily facilement
-readily volontiers
 readiness empressement
-readiness facilité
 reading interprétation
-reading lecture
-reading relevé
 readings interprétations
-readings lectures
 readjust rajuster
-readjust réajuster
 readjusts rajuste
-readjusts réajuste
 readout affichage
-readout d'affichage
 readouts affichages
 reads lit
 ready disposé
-ready pre^t
-ready prompt
 reaffirm affirmer_de_nouveau
-reaffirm réaffirmer
 reaffirms affirme_de_nouveau
-reaffirms réaffirme
 reagent réactif
 real naturel
-real véritable
-real vrai
 realisable réalisable
 realism réalisme
 realist réaliste
 realistic plein_de_réalisme
-realistic réaliste
-realistically avec réalisme
 reality réalité
 realize réaliser
 really vraiment
 reporter le_reporter
 represent représenter
 request demande
-request exiger
-request reque^te
 road rue
 roads rues
 roadwork chantier
@@ -2628,27 +2219,20 @@ sabbath sabbat
 sabbatic sabatique
 sabbatical sabbatique
 saber sabre
-sabin nom_de_personne qui a decouvert le_vaccine contre poliomyltie
 sable martre
 sabot sabot
 sabotage sabotage
 sabotaged saboté
 sabotages sabotages
 saboteur saboteur
-sabra citoyen du pays Israel, personne ne en Israel
-sabras citoyens du pays Israel, personnese nes en Israel
 saccade une_saccade
 saccharin saccharine
 saccharine saccharin
 saccharose saccharose
-sacerdotal appartient a une_chose religieuse
-sacerdotally une_acte faite en manière sacrée
 sachet un_sachet
 sack sac
-sack virer
 sackcloth une_vêtement_de_deuil
 sacked viré
-sackful une_mesure "plein d'un_sac"
 sacks piller
 sacrament sacrament
 sacramental sacremental
@@ -2660,20 +2244,14 @@ sacrificed sacrifier
 sacrifices sacrifices
 sacrilege sacrile\ge
 sad malheureux
-sad triste
 sadden attrister
-sadder plus triste
-saddest plus triste
 saddle selle
 saddlebag une_sacoche
 saddlebags des_sacoches
 saddlebow un_arçon
-saddlecloth une_housse _de_cheval
 saddled sellé
-saddleless sans selle
 saddler un_sellier
 saddlery une_sellerie
-saddles  une_selle
 saddletree un_bois_de_selle
 saddling sellant
 sadism sadisme
@@ -2683,20 +2261,13 @@ sadistically sadiquement
 sadists sadistes
 sadly tristement
 sadness tristesse
-safari un_voyage, en particulier en Afrique
 safe coffre-fort
-safecracker une_personne qui ouvre une_caisse illégalement
-safecracking l'acte d'ouvrir une_caise illégalement
 safeguard une_sauvegarde
 safeguarded sauvegardé
-safeguards garde fous
-safer pplus sauf
 safes les_caisses
-safest le_plus sauf
 safety le_sûreté
 safflower le_carthame
 saffron le_safran
-sag plier, ployer
 saga une_saga
 sagacious prudent
 sagaciously prudemment
@@ -2706,24 +2277,16 @@ sage le_sage
 sagely sagement
 sago le_sagou
 saguaro une_type_de_cactus
-sahib une_forme d'addresser pour un_homme des_Indes
 said dit
 sail naviguer
-sail voile
 sailable navigable
-sailboat un_bateau  à voiles
-sailboater un_marin des_bateua à voiles
-sailcloth la_toile à voiles
 sailor marin
 sailors les_marins
 sails les_voiles
-sainfoin le_sainfoin  bot.
 saint sainte
 sainted sacré
 sainthood la_sainteté
 saints saintes
-saith dit  vieux anglais
-sake le_vin du riz japonais
 salability vendabilité
 salacious grivois
 salad salade
@@ -2734,7 +2297,6 @@ salaried salarié
 salaries salaires
 sale solde
 saleable vendable
-saleroom la_salle des_ventes
 sales les_ventes
 salesclerk un_vendeur
 salesgirl une_vendeuse
@@ -2755,13 +2317,8 @@ salinometers des_salinomètres
 saliva salive
 salivary salivaire
 salivate saliver
-salivated  a fait saliver
-salivates fait saliver
-salivating faisant saliver
-salivation ;a salivation
 sallies les_sorties
 sallow jaunâtre
-sallowish un_peu jaunâtre
 salmon saumon
 salmons saumons
 salon salon
@@ -2769,18 +2326,12 @@ salons salons
 salt sel
 saltwater l'eau_de_mer
 saltworks la_saline
-saltwort le_soude  bot.
 salty salé
 salubrious salubre
 salubrity la_salubrité
 salvage le_sauvetage
 salver le_plateau
-samba la_Samba, une_danse originée du Brasil
 same même
-sampan un_bateua chinois
-samphire le_passe-pierre  bot.
-samurai un_guerrier ancien japonais
-samurais des_guerriers anciens japonais
 sand le_sable
 sandal la_sandale
 school école
@@ -2791,25 +2342,19 @@ sellers les_vendeurs
 serendipity le_serendiptiy
 serene le_serene
 seven sept
-sevenfold sept fois
 seventeen dix-sept
 seventeenth dix-septie\me
 seventh septie\me
-seventies les_années soixante-dix
 seventieth soixante-dixie\me
 seventy soixante-dix
-seventyfold soixante-dix fois
 sever blesser
-severalfold plusieurs fois
 severe grave
-severed blessé, blessée
 severely gravement
 severities blessures
 severity gravité
 sewage épandage
 sex sexe
 sexagenarian séxagénaire
-shades_lunettes_de_soleil
 shadow ombre
 shadows ombres
 shagreen chagrin
@@ -2824,8 +2369,7 @@ shampoo shampooing
 shampoos shampooings
 sheep agnis
 sheepherder pastor
-ship ba^teau
-ship navire
+ship bâteau
 shit merde
 sick malade
 silver argent
@@ -2835,17 +2379,9 @@ sink couler
 six six
 sixteen seize
 sixteenth seizie\me
-sixties les_années soixante
 sixty soixante
-sixtyfold soixante fois
-size taille, dimension
 skate patin
-skateboard planche a\ roulettes
 skateboarder planchiste
-skateboarding faire_de_la_planche a\ roulettes
-skateboards planches a\ roulettes
-skater patineur, patineuse
-skaters patineurs, patineuses
 skates patins
 skating patinage
 skill Habileté
@@ -2861,7 +2397,7 @@ snow neige
 snowball boule_de_neige
 snowflake flocon_de_neige
 snowman bonhomme_de_neige
-snowstorm tempe^te_de_neige
+snowstorm tempête_de_neige
 software logiciel
 sorrel oseille
 sorrily tristement
@@ -2870,10 +2406,6 @@ sort trier
 sorted trié
 sorter trieur
 soul âme
-spectra pl_de_spectrum, spectre
-spectrum Phys: spectre; Fig: gamme_de_produit
-speculate s'interroger, speculer, conjecturer
-speculation meditation; conjectures ; speculation
 staple agrafe
 stapled agraf/e
 stapler agrafeuse
@@ -2888,14 +2420,10 @@ stupid Stupide
 subject asignatura
 succeed réussir
 success réussité
-sun_soleil
-sunbathe se bronzer
 sunny ensoleillé
 suppressed étouffé
-suspect soupc,onner
-swear jurer ; preter serment
+suspect soupçonner
 tab happy
-tab sortir
 tabernacle tabernacle
 table table
 tableau tableau
@@ -2911,9 +2439,7 @@ taboos tabous
 tachometer tachyme\tre
 tachometers tachyme\tres
 tacit tacite
-tail queue of animal
 tailor tailleur
-tailored fait sur mesure
 tailors tailleurs
 tails queues
 task tâche
@@ -2922,54 +2448,22 @@ taste goût
 tasted goûté
 tasteless insipide
 tear accroc
-tear déchirer
-tear déchirure
-tear larme
 teardrop larme
-tearful tout en pleurs
-tearfully en pleurant
-tearfully les_larmes aux yeux
-teargas gaz lacrymoge\ne
 tearjerker mélo
-tearless avec yeux secs
-tearless sans larmes
 tearoom salon_de_thé
 tears déchirures
-tears larmes
 tearstained barbouillé_de_larmes
-tearstained portant des_traces_de_larmes
 tease taquin
-tease taquiner
-tease tourmenter
 teasel carde\re
-teaser question dificile
 teaser taquin
 teases excite
-teases taquine
-teases taquins
 teasing railleur
-teasing taquinerie
-teasingly d'un_ton railleur
-teasingly pour taquiner
-teaspoon cuille\re a\ café
-teaspoon cuiller a\ café
-teaspoonful cuillerée a\ café
 teat bout_de_sein
-teat mamelon
-teat tette
-teat trayon
-teatime l'heure du thé
 teats mamelons
-teats tettes
 ten dix
 tendencies tendances
 tendency tendance
-tenderfoot visage pa^le
 tenderly tendrement
-thence_de_la\
-thence pour cette raison
-thenceforth de\s lors
-thenceforward de\s lors
 theocracy théocratie
 theocratic théocratique
 theodolite théodolite
@@ -2981,53 +2475,41 @@ theology théologie
 theorem théore\me
 theorems théore\mes
 theoretical théorétique
-theoretical théorique
 theoretically théoriquement
 theoretician théoricien
-theoretician théoricienne
 theoreticians théoriciennes
-theoreticians théoriciens
 theories théories
 theorist théoricien
-theorist théoricienne
 theorists théoriciennes
-theorists théoriciens
 theorize théoriser
 thief voleur
-though cependant, pourtant
-though quoique , bien que[Conjunction]
-thought pensee,idee
-thought reflexion; intention, dessein
-thoughtful pensif, meditatif, reveur
-thoughtful serieux, reflechi, prudent
+though cependant
+thought pensee
+thoughtful pensif
 thoughtfully pensivement
-thoughtfulness meditation, recueillement
-thoughtless irreflechi, etourdi
-thoughtlessly etourdiment, a la_legere, sans reflexion
-thoughtlessness irreflexon, etourderie
-thousand mille, millier
+thoughtfulness meditation
+thoughtless irreflechi
+thoughtlessly etourdiment
+thoughtlessness irreflexon
+thousand mille
 thousandth millieme
-thrash ecraser qn, rouer qn_de_coup, 
-thrash se debattre, se demener
-thread enfiler une_aiguille; se faufiler ; fileter
-thread filament, fil_de_soie
-thread Filet, pas_de_vis 
-threadbare elime, rape, use
+thrash ecraser_qn,
+thread enfiler
+threadbare elime
 threat menace
 threaten menacer
 threatening menacant
-threateningly d'un_ton menacant
 three trois
 tigress tiger
-today au'jour d'hui
-toe doigt a pied
+today au'jour_d'hui
+toe doigt_a_pied
 tradition tradition
 traditional traditional
 trail piste
 train train
 trainee stagiare
 trainer encadreur
-traitor trai^tre
+traitor traître
 transaction transaction
 transalpine transalpin
 transcribe transcrire
@@ -3043,88 +2525,73 @@ ubiquitous omniprésent
 ubiquity ubiquité
 udder pis
 ugh pouah
-uglier plus laid
-ugliest le_plus laid
+uglier plus_laid
+ugliest le_plus_laid
 uglify enlaidir
 uglily laidement
 ugliness laideur
 ugly laid
-ukulele guitare hawai.enne
+ukulele guitar_hawaïenne
 ulcer ulce\re
 ulcerate ulcérer
 ulcerated ulcéreux
 ulceration ulcération
 ulcerative ulcératif
 ulna cubitus
-ultimo du mois dernier
+ultimo du_mois_dernier
 unemployment chomage
-vacant room, seat libre; stare vague; post vacant
+vacant room
 vacate quitter
 vacation vacances
 vaccinate vacciner
 vaccinated vacciner
-vacuum vide; vacuum cleaner aspirateur [masc] 
-vacuumed passer a\ l'aspirateur
-vagina vagin masc.
+vacuum vide
+vacuum_cleane aspirateur
+vacuumed passer_à_l'aspirateur
 vagrant vagabonde
-vague vague; outline, photograph flou; absent minded distrait
-vain hope vain; promise vide; conceited vaniteux, [f] -euse  
+vague vague
+vain hope_vain
 wacky drole
 wag remuer
 walnut la_noix
 warehouse entrepot
-warehouse entrepôt
 warehouses entrepôts
 wash laver
 weep pleurer
 weeping pleurs
-weeping qui pleure
 weeps pleure
 weepy larmoyant
-weepy mélo
-weevil charanc,on
+weevil charançon
 weft trame
 weigh mesurer
-weigh peser
 weighing pesée
 weighings pesées
 weighs pe\se
 weight poids
 weighted lesté
-weighted pondéré
-weightily avec force
-weightily puissamment
+weightily avec_force
 weighting lestage
-weighting plombage
-weightless état d'apesanteur
+weightless état_d'apesanteur
 weightlessness apesanteur
-weights attache un_poids a\
-weights série_de_poids
+weights attache_un_poids_à
 weighty lourd
-weighty pesant
 weir barrage
 weird bizarre
-weird étrange
 weirdie excentrique
 weirdies excentriques
 weirdly étrangement
-weirdness caracte\re étrange
-weirdness étrangeté inquiétante
+weirdness caracte\re_étrange
 weirdo excentrique
 weirdos excentriques
 weirs barrages
 welcome agréable
-welcome bienvenu
-welcome bienvenue
-welcome souhaiter la_bienvenue a\
-where ou\
-window la_fene^tre
-window le_guichet  [tickets, etc.]
+where où
+window la_fenêtre
 windowpane la_glace
 windowpanes les_glaces
-windows les_fene^tres
+windows les_fenêtres
 windshield le_parebrise
-windstorm la_tempe^te
+windstorm la_tempête
 windup remonter
 wine le_vin
 wineglass le_verre_de_vin
@@ -3133,40 +2600,33 @@ winemaker l'encaveur
 winemaking la_vinification
 winepress le_pressoir
 wines les_vins
-winey vineux -se
+winey vineux(-se)
 wing l'aile
 winglet l'aileron
-wink un_clin d'oeil
+wink un_clin_d'oeil
 winter l'hiver
 wipe essuyer
-wire fil métallique, fil_de_fer
-wire telegramme
-wire telegraphier ; faire l'installation electrique
-wired branche , sonorise
-wireless sans fil
-wiring installation electrique
-wiry raide, rude ; maigre et nerveux
+wire fil_métallique
+wired branche_sonorise
+wireless sans_fil
+wiring installation_electrique
+wiry raide
 wisdom sagesse
-wise sage, prudent, savant
-wisecrack astuce, sarcasme
-wisely sagement, prudement
-wiser plus sage
-wish desir, souhait
-wish desirer, souhaiter qch
+wise sage
+wisecrack astuce
+wisely sagement
+wiser plus_sage
+wish desir
 wishbone brechet
-wishes pl_de_wish, desir
-wishful that's wishfull thinking on your part : tu te fais des_illusions
+wishes de_wish
 witch sorcie\re
 witches sorcie\res
-with avec[Conjunction]
+with avec
 withdraw retirer
-withdraw se retirer [intr]
 without sans
 witness témoigner
-witness témoin
 witnesses témoins
 wolverine le_carcajou
-wolverine le_glouton
 world le_monde
 worldwide mondial
 xenophobe xénophobe
@@ -3177,39 +2637,36 @@ xylem xyle\me
 xylene xyle\ne
 xylophone xylophone
 xylophones xylophone
-xylophonist joueur joueuse_de_xylophone
+xylophonist joueur_joueuse_de_xylophone
 xylose xylose
 xylotomic xylotomique
 yacht yacht
 yachting yachting
 yachtsman yachtsman
 yak yack
-yam patate douce
-yank tirer d'un_coup sec
+yam patate_douce
+yank tirer_d'un_coup_sec
 yap japper
-yard yard 3 ft
+yard yard
 yardstick mesure
 yarn fil
 yawn bâillement
-yawn bâiller
-yawning ba^illement
+yawning bâillement
 yeah ouais!
 year année
 yearbook annuaire
 yearlong annuel
 yearly annuelle
-yearly annuellement
 yearn désirer
 yearning désir
 yearningly désireux
 years années
 yeast levure
 yell hurlement
-yell hurler
 yellow jaune
 yellowed jauni
 yellowing jaunissant
-yellowish jauna^tre
+yellowish jaunâtre
 yes oui
 yesterday hier
 yet encore
@@ -3220,10 +2677,9 @@ yoghurt yaourt
 yogurt yaourt
 yoke joug
 yolk jaune_d'oeuf
-you formal and/or plural vous
-you informal and singular tu
+you vous
 young jeune
-younger plus jeune
+younger plus_jeune
 youngster jeune
 youth jeunesse
 youthful juvénile
@@ -3236,16 +2692,13 @@ zealous zélée
 zebra zèbre
 zenith zénith
 zero zero
-zero zéro
 zest piquant
 zigzag zigzaguer
 zinc zinc
 zipper fermeture
 zodiac zodiaque
-zodiac zondiaque
-zone zone
 zone zone
 zoo zoo
 zoology zoologie
-zoom aller en trombe
+zoom aller_en_trombe
 zucchini courgette

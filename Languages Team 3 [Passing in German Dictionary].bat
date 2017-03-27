@@ -1,1 +1,1 @@
-java -jar "%~dp0Languages Team 3.jar%*" d EGDictionary.txt Portuguese
+java -jar "%~dp0Languages Team 3.jar%*" d EGDictionary.txt German
