@@ -1,6 +1,4 @@
-StartOfFile
-a a
-aardvark aardvark
+﻿StartOfFile
 a a
 aardvarks aardvarks
 aback às_avessas
@@ -304,6 +302,7 @@ are são
 artery arte/ria
 article artigo
 attack ataque
+água parada
 axe machado
 babble balbucio
 babbled murmurado
@@ -537,7 +536,6 @@ cartoon desenho_animado
 cartoons desenhos_animados
 chair cadeira
 colunas vertebrais
-água parada
 região remota
 homens maus
 deixar perplexo
@@ -942,7 +940,7 @@ sag curva
 saga saga
 sagacious sagaz
 sage sábio
-salva [planta]
+salva planta
 sages sábios
 sagging caindo
 sago sagu
@@ -1221,7 +1219,7 @@ youngster moço
 youngsters moços
 your teu
 yours o_teu
-yourself tu0mesmo
+yourself tu_mesmo
 yourselves voces_mesmos
 youth um_moço
 yowl uivoa_a
